@@ -1,10 +1,7 @@
 
-<!-- .slide: class="flex-row center" data-background="./assets/lunch/bkgnd-lunch.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
 #### Questions & Feedback
-![h500](./assets/lunch/openfeedback-tr-600-white.png)
+![h500](./assets/volcamp/qr-feedback-volcamp.png)
 
-Avez-vous des questions ?
-Notes:
-https://www.qrcode-monkey.com/fr/
-
+Merci pour votre feedback 🙏
 

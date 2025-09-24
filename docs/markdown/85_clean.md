@@ -1,13 +1,13 @@
 
-<!-- .slide: class="flex-row center" data-background="./assets/lunch/bkgnd-lunch.png"-->
-#### Clean : 2 façons de faire du nettoyage
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
+## Clean : 2 façons de faire du nettoyage
 ![h-800](./assets/techready/clean-policy.png)
 
 
 
 ##==##
-<!-- .slide: class="with-code-dark max-height" data-background="./assets/lunch/bkgnd-lunch.png"-->
-#### Cleanup Policy sur expression cron
+<!-- .slide: class="with-code-dark max-height" data-background="./assets/volcamp/bkgnd-basew.png"-->
+## Cleanup Policy sur expression cron
 ```yaml [2,4,11-13,19]
 apiVersion: kyverno.io/v2
 kind: ClusterCleanupPolicy
@@ -34,8 +34,8 @@ spec:
 
 
 ##==##
-<!-- .slide: class="with-code-dark max-height" data-background="./assets/lunch/bkgnd-lunch.png"-->
-#### Cleanup Policy sur présence de ttl (label)
+<!-- .slide: class="with-code-dark max-height" data-background="./assets/volcamp/bkgnd-basew.png"-->
+## Cleanup Policy sur présence de ttl (label)
 ```yaml [2,5-6]
 apiVersion: apps/v1
 kind: Deployment

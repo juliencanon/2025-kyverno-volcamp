@@ -1,3 +1,30 @@
+<!-- .slide: class="speaker-slide" -->
+<div class="speaker-slide">
+
+# Hello Volcamp
+
+## Julien <b>CANON</b>
+
+### Architecte Cloud
+
+### Linkedin
+
+### @jconigiri
+
+![](./assets/volcamp/jcanon-sfeir-disc.png 'speaker')
+
+![](./assets/images/logo-sfeir-blanc.png 'company')
+
+![](./assets/images/gde.png 'badge')
+
+![](./assets/images/GDG-Logo-carre.png 'badge')
+
+![](./assets/images/mts.png 'badge')
+
+</div>
+
+##==##
+
 <!-- .slide: data-background="./assets/lunch/bkgnd-speaker-pro.png"-->
 Notes:
 Titre : Architecte Cloud 

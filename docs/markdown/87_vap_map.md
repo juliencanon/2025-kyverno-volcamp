@@ -1,7 +1,7 @@
 
 
-<!-- .slide: data-background="./assets/lunch/bkgnd-lunch.png"-->
-### Compatibilité entre Kyverno et VAP/MAP 
+<!-- .slide: data-background="./assets/volcamp/bkgnd-basew.png"-->
+## Compatibilité entre Kyverno et VAP/MAP 
 
 Kubernetes propose depuis la 1.26 des resources natives :
  ->  ValidatingAdmissionPolicy et MutatingAdmissionPolicy
@@ -18,7 +18,7 @@ Kubernetes propose depuis la 1.26 des resources natives :
 
 
 ##==##
-<!-- .slide: class="flex-row center" data-background="./assets/lunch/bkgnd-lunch.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
 ![h-800](./assets/techready/demo-time-boy.png)
 Kyverno test
 

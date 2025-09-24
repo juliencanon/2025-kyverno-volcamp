@@ -1,35 +1,36 @@
 
-<!-- .slide: class="flex-row center" data-background="./assets/lunch/bkgnd-lunch.png"-->
-### Niveau 200 : Poursuivons avec d'autres policies
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
+## Niveau 200 : Poursuivons avec d'autres policies
 ![h600](./assets/lunch/policies-sur-etagere-750.png)
 
 
 
 ##==##
-<!-- .slide: class="flex-row center" data-background="./assets/lunch/bkgnd-lunch.png"-->
-#### Le site officiel de Kyverno
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
+## Le site officiel de Kyverno
 ![h-900](./assets/techready/kyverno-website.png)
 
 https://kyverno.io
 
 
 ##==##
-<!-- .slide: class="flex-row center" data-background="./assets/lunch/bkgnd-lunch.png"-->
-#### Collection sur étagère
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
+## Collection sur étagère
 ![h-800](./assets/lunch/policies-etagere.png)
 
 [https://kyverno.io/policies](https://kyverno.io/policies/?policytypes=validate)
 
 
 ##==##
-<!-- .slide: class="flex-row center" data-background="./assets/lunch/bkgnd-lunch.png"-->
-#### Profitez du joli terrain de jeu
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
+## Profitez du joli terrain de jeu
 ![h-800](./assets/lunch/playground.png)
 
 [https://playground.kyverno.io](https://playground.kyverno.io/#/)
 
-<!-- .slide: data-background="./assets/lunch/bkgnd-lunch.png"-->
-### Méthodologie :
+##==##
+<!-- .slide: data-background="./assets/volcamp/bkgnd-basew.png"-->
+## Méthodologie :
 - Commencer tranquillement
 - Une première policy en Audit
 - Suivi du pourcentage de conformité
@@ -40,8 +41,8 @@ https://kyverno.io
 
 
 ##==##
-<!-- .slide: class="flex-row center" data-background="./assets/lunch/bkgnd-lunch.png"-->
-#### Rendre visible. Auditez !
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
+## Rendre visible. Auditez !
 ![h-800](./assets/techready/popeye.png)
 
 

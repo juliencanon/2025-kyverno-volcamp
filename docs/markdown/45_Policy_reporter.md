@@ -1,11 +1,11 @@
 
-<!-- .slide: class="flex-row center" data-background="./assets/lunch/bkgnd-lunch.png"-->
-#### Policy-reporter
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
+## Policy-reporter
 ![h-800](./assets/techready/policy-reporter.png)
 
 ##==##
-<!-- .slide: class="with-code-dark max-height" data-background="./assets/lunch/bkgnd-lunch.png"-->
-#### PolicyExceptions (Pouvoir gérer une exception ponctuelle)
+<!-- .slide: class="with-code-dark max-height" data-background="./assets/volcamp/bkgnd-basew.png"-->
+## PolicyExceptions (Pouvoir gérer une exception ponctuelle)
 ```yaml
 apiVersion: kyverno.io/v2
 kind: PolicyException

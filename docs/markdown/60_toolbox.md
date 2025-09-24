@@ -1,6 +1,6 @@
 
-<!-- .slide: class="flex-row center" data-background="./assets/lunch/bkgnd-lunch.png"-->
-### Kyverno ne se limite pas à un Admission Controller
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
+## Kyverno ne se limite pas à un Admission Controller
 ![h500](./assets/techready/toolbox-trans.png)
 
 Notes:
