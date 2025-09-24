@@ -1,5 +1,5 @@
 
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Respectons notre supply chain
 ![h-600](./assets/techready/origine-image.png)
 
@@ -7,7 +7,7 @@
 
 
 ##==##
-<!-- .slide: class="with-code-dark max-height" data-background="./assets/volcamp/bkgnd-basew.png"-->
+<!-- .slide: class="with-code-dark max-height" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Supply: Vérification des signatures d'images avec Notary
 ```yaml [2,12-13,16-17,26]
 apiVersion: policies.kyverno.io/v1alpha1
@@ -40,7 +40,7 @@ spec:
 
 
 ##==##
-<!-- .slide: class="with-code-dark max-height" data-background="./assets/volcamp/bkgnd-basew.png"-->
+<!-- .slide: class="with-code-dark max-height" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Supply: vérification des attestations de conformité SBOM
 
 ```yaml [2,4,12-15,22-23,26]

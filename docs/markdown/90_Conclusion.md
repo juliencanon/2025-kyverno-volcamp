@@ -1,6 +1,6 @@
 
 
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Processus d'amélioration continue
 ![h500](./assets/techready/roue-demming.png)
 
@@ -8,7 +8,7 @@
 
 
 ##==##
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 # Cadre méthodologique
 ## Conserver toutes les pratiques en amont (non regression, fail fast, tests sécu).
 - Pratiques devops, pipelines CI/CD
@@ -22,7 +22,7 @@
 
 
 ##==##
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Take away
 - Un précieux allié pour mettre en place la conformité et son suivi dans le temps
 - Mettre en place les bons mécanisme by-design en amont
@@ -32,7 +32,7 @@
 <!-- .element: class="list-fragment" -->
 
 ##==##
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Kyverno, c'est de la dynamite ! 🧨
 ![h500](./assets/techready/dynamite.webp)
 

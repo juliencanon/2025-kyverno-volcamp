@@ -1,10 +1,10 @@
 
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Policy-reporter
 ![h-800](./assets/techready/policy-reporter.png)
 
 ##==##
-<!-- .slide: class="with-code-dark max-height" data-background="./assets/volcamp/bkgnd-basew.png"-->
+<!-- .slide: class="with-code-dark max-height" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## PolicyExceptions (Pouvoir gérer une exception ponctuelle)
 ```yaml
 apiVersion: kyverno.io/v2

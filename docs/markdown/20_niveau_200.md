@@ -1,12 +1,12 @@
 
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Niveau 200 : Poursuivons avec d'autres policies
 ![h600](./assets/lunch/policies-sur-etagere-750.png)
 
 
 
 ##==##
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Le site officiel de Kyverno
 ![h-900](./assets/techready/kyverno-website.png)
 
@@ -14,7 +14,7 @@ https://kyverno.io
 
 
 ##==##
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Collection sur étagère
 ![h-800](./assets/lunch/policies-etagere.png)
 
@@ -22,14 +22,14 @@ https://kyverno.io
 
 
 ##==##
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Profitez du joli terrain de jeu
 ![h-800](./assets/lunch/playground.png)
 
 [https://playground.kyverno.io](https://playground.kyverno.io/#/)
 
 ##==##
-<!-- .slide: data-background="./assets/volcamp/bkgnd-basew.png"-->
+<!-- .slide: data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Méthodologie :
 - Commencer tranquillement
 - Une première policy en Audit
@@ -41,7 +41,7 @@ https://kyverno.io
 
 
 ##==##
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Rendre visible. Auditez !
 ![h-800](./assets/techready/popeye.png)
 

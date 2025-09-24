@@ -1,12 +1,12 @@
 
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Niveau 400 : Implémentez les policies adaptées à votre métier
 ![h600](./assets/lunch/200-dragon-600.png)
 
 
 
 ##==##
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## La conformité traite :
 - du respect des règles (réglementations et normes)
 - de la maîtrise des risques (légaux, financiers, réputation)
@@ -17,7 +17,7 @@
 
 
 ##==##
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Autres exemples de référentiels à implémenter selon les contraintes
 
 - NIST SP 800-190

@@ -1,6 +1,6 @@
 
 
-<!-- .slide: data-background="./assets/volcamp/bkgnd-basew.png"-->
+<!-- .slide: data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Compatibilité entre Kyverno et VAP/MAP 
 
 Kubernetes propose depuis la 1.26 des resources natives :
@@ -18,7 +18,7 @@ Kubernetes propose depuis la 1.26 des resources natives :
 
 
 ##==##
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-basew.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ![h-800](./assets/techready/demo-time-boy.png)
 Kyverno test
 
