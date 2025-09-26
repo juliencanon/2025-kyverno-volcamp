@@ -1,3 +1,31 @@
 .reveal .slides section {
     // Do some stuff
+    
+    // Classes personnalisées pour les couleurs
+    .text-red {
+        color: #e74c3c !important;
+    }
+    
+    .text-blue {
+        color: #3498db !important;
+    }
+    
+    .text-green {
+        color: #2ecc71 !important;
+    }
+    
+    .text-orange {
+        color: #f39c12 !important;
+    }
+    
+    .text-purple {
+        color: #9b59b6 !important;
+    }
+    
+    // Pour les titres spécifiquement
+    h1.colored, h2.colored, h3.colored {
+        &.red { color: #e74c3c !important; }
+        &.blue { color: #3498db !important; }
+        &.green { color: #2ecc71 !important; }
+    }
 }

@@ -1,3 +1,26 @@
-
+.reveal .slides section .text-red {
+  color: #e74c3c !important;
+}
+.reveal .slides section .text-blue {
+  color: #3498db !important;
+}
+.reveal .slides section .text-green {
+  color: #2ecc71 !important;
+}
+.reveal .slides section .text-orange {
+  color: #f39c12 !important;
+}
+.reveal .slides section .text-purple {
+  color: #9b59b6 !important;
+}
+.reveal .slides section h1.colored.red, .reveal .slides section h2.colored.red, .reveal .slides section h3.colored.red {
+  color: #e74c3c !important;
+}
+.reveal .slides section h1.colored.blue, .reveal .slides section h2.colored.blue, .reveal .slides section h3.colored.blue {
+  color: #3498db !important;
+}
+.reveal .slides section h1.colored.green, .reveal .slides section h2.colored.green, .reveal .slides section h3.colored.green {
+  color: #2ecc71 !important;
+}
 
 /*# sourceMappingURL=slides.css.map */
