@@ -1,7 +1,7 @@
 
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Niveau 200 : Poursuivons avec d'autres policies
-![h600](./assets/lunch/policies-sur-etagere-750.png)
+![h500](./assets/lunch/policies-sur-etagere-750.png)
 
 
 
@@ -27,6 +27,10 @@ https://kyverno.io
 ![h-800](./assets/lunch/playground.png)
 
 [https://playground.kyverno.io](https://playground.kyverno.io/#/)
+
+##==##
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
+![h-800](./assets/volcamp/playground-screen.png)
 
 ##==##
 <!-- .slide: data-background="./assets/volcamp/bkgnd-main2.png"-->

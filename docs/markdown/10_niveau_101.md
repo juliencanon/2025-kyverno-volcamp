@@ -1,7 +1,7 @@
 
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Niveau 101 : le stagiaire qui déploie une image 'latest'
-![h150](./assets/lunch/stagiaire-latest-500.png)
+![h250](./assets/lunch/stagiaire-latest-500.png)
 
 
 

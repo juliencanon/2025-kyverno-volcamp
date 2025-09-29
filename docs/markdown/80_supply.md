@@ -3,40 +3,12 @@
 ## Respectons notre supply chain
 ![h-600](./assets/techready/origine-image.png)
 
-
-
-
 ##==##
-<!-- .slide: class="with-code-dark max-height" data-background="./assets/volcamp/bkgnd-main2.png"-->
-## Supply: Vérification des signatures d'images avec Notary
-```yaml [2,12-13,16-17,26]
-apiVersion: policies.kyverno.io/v1alpha1
-kind: ImageValidatingPolicy
-metadata:
-  name: check-images
-spec:
-  matchConstraints:
-    resourceRules:
-      - apiGroups: [""]
-        apiVersions: ["v1"]
-        operations: ["CREATE"]
-        resources: ["pods"]
-  variables:
-    - name: cm
-      expression: >-
-        resource.Get("v1", "configmaps", object.metadata.namespace, "keys")
-  matchImageReferences:
-    - glob: ghcr.io/*                         
-  attestors:
-        - name: notary
-          notary:
-            certs:
-              value: |
-                -----BEGIN CERTIFICATE-----
-                MIIBjTCCATOgAwIBAgIUdMiN3gC...
-                -----END CERTIFICATE-----
-              expression: variables.cm.data.cert
-```
+
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
+## S'assurer que les images proviennent de registries sûres
+![h-600](./assets/techready/origine-image.png)
+
 
 
 ##==##
@@ -80,5 +52,38 @@ spec:
     - expression: >-
         images.containers.map(image, extractPayload(image, attestations.sbom).bomFormat == 'CycloneDX').all(e, e)
       message: sbom is not a cyclone dx sbom
+```
+
+
+##==##
+<!-- .slide: class="with-code-dark max-height" data-background="./assets/volcamp/bkgnd-main2.png"-->
+## Supply: Vérification des signatures d'images avec Notary
+```yaml [2,12-13,16-17,26]
+apiVersion: policies.kyverno.io/v1alpha1
+kind: ImageValidatingPolicy
+metadata:
+  name: check-images
+spec:
+  matchConstraints:
+    resourceRules:
+      - apiGroups: [""]
+        apiVersions: ["v1"]
+        operations: ["CREATE"]
+        resources: ["pods"]
+  variables:
+    - name: cm
+      expression: >-
+        resource.Get("v1", "configmaps", object.metadata.namespace, "keys")
+  matchImageReferences:
+    - glob: ghcr.io/*                         
+  attestors:
+        - name: notary
+          notary:
+            certs:
+              value: |
+                -----BEGIN CERTIFICATE-----
+                MIIBjTCCATOgAwIBAgIUdMiN3gC...
+                -----END CERTIFICATE-----
+              expression: variables.cm.data.cert
 ```
 

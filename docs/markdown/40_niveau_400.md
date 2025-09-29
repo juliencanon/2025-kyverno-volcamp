@@ -8,11 +8,11 @@
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## La conformité traite :
-- du respect des règles (réglementations et normes)
+- des normes (nomenclature, règles d'architecture, ...)
+- du respect des réglementations
 - de la maîtrise des risques (légaux, financiers, réputation)
 - de la confiance et de l'intégrité
 - de l'efficacité opérationnelle (clarté, meilleure gouvernance)
-- de la culture d'entreprise
 <!-- .element: class="list-fragment" -->
 
 
@@ -20,12 +20,11 @@
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Autres exemples de référentiels à implémenter selon les contraintes
 
-- NIST SP 800-190
 - CIS Kubernetes Benchmark
 - ISO 27001
-- SOC 2
 - PCI DSS
 - HDS
+- SOC 2
 - MITTR&TTack
 - SecNumCloud
 

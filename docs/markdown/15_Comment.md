@@ -1,7 +1,7 @@
 
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Mais Jamy, comment ça marche ?
-![h800](./assets/lunch/cest-pas-sorcier-800.jpg)
+![h500](./assets/lunch/cest-pas-sorcier-800.jpg)
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->

@@ -6,7 +6,7 @@
 Il faut sécuriser les containers dans le cluster !
 
 ##==##
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
+<!-- .slide: class="flex-row center blue" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Pod Security Standards
 
 - interdiction des capabilities
@@ -35,5 +35,5 @@ Mode : Audit ou Enforce
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Utilisons le helm chart kyverno-policies
-![h-800](./assets/techready/demo-time-girl.png)
+![h-600](./assets/techready/demo-time-girl.png)
 

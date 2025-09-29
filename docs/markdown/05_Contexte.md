@@ -1,16 +1,9 @@
 
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
-## Pré-requis : Connaissance de l'écosystème Kubernetes
-![h-600](./assets/techready/illus-cluster-2.png)
-
-##==##
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
-## Retour d'expérience
 ![h-700](./assets/techready/arrivee-client.png)
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
-## Equipe mature appliquant les bonnes pratiques
 ![h-700](./assets/techready/team-mature.png)
 ![h-700](./assets/lunch/outils-trans3.png)
 

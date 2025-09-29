@@ -2,7 +2,7 @@
 
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Processus d'amélioration continue
-![h500](./assets/techready/roue-demming.png)
+![h400](./assets/techready/roue-demming.png)
 
 
 
@@ -33,6 +33,6 @@
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
-## Kyverno, c'est de la dynamite ! 🧨
-![h500](./assets/techready/dynamite.webp)
+### Kyverno, c'est de la dynamite ! 🧨
+![h400](./assets/techready/dynamite.webp)
 

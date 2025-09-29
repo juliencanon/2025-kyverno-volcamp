@@ -1,0 +1,63 @@
+{
+  "title": "Scroll with mouse motion when holding 't'",
+  "rules": [
+    {
+      "description": "Hold 't' and move the mouse to scroll. (Tap 't' to type 't')",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "t",
+            "modifiers": {
+              "optional": [
+                "any"
+              ]
+            }
+          },
+          "to": [
+            {
+              "set_variable": {
+                "name": "holding_t_for_scroll",
+                "value": 1
+              }
+            },
+            {
+              "pointing_button": "button4"
+            }
+          ],
+          "to_after_key_up": [
+            {
+              "set_variable": {
+                "name": "holding_t_for_scroll",
+                "value": 0
+              }
+            }
+          ],
+          "to_if_alone": [
+            {
+              "key_code": "t"
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "conditions": [
+            {
+              "type": "variable_if",
+              "name": "holding_t_for_scroll",
+              "value": 1
+            }
+          ],
+          "from": {
+            "any": "pointing_device"
+          },
+          "to": [
+            {
+              "mouse_motion_to_scroll": {}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

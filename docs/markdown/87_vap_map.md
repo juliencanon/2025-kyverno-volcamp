@@ -19,6 +19,6 @@ Kubernetes propose depuis la 1.26 des resources natives :
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
-![h-800](./assets/techready/demo-time-boy.png)
-Kyverno test
+## Tests de non-regression avec "kyverno test"
+![h-600](./assets/techready/demo-time-boy.png)
 
