@@ -4,12 +4,20 @@
 options=(
     "Installation de Kyverno"
     "Démo 1ère policy"
+    "Démo Mutations"
+    "Démo Générations"
+    "Démo Kyverno test"
+    "Démo Kyverno policies chart"
     "Quitter"
 )
 
 actions=(
     "./1-install-kyverno.sh"
     "./2-first-policy.sh"
+    "./3-mutate.sh"
+    "./4-generate.sh"        
+    "./5-kyverno-test.sh"     
+    "./6-kyverno-policies.sh"
     "exit 0"
 )
 
