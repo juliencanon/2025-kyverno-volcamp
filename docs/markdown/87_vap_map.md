@@ -1,5 +1,13 @@
 
+<!-- .slide: data-background="./assets/volcamp/bkgnd-main2.png"-->
+## TODO :
+- Un peu d'historique (Custom Admission Controller / Gatekeeper / Kyverno / VAP/MAP / Pivot CEL)
+- Expliquer VAP/MAP
+- Accompagnement CEL sur policy
+- Accompagnement sur tooling
+- version 1.15
 
+##==##
 <!-- .slide: data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Compatibilité entre Kyverno et VAP/MAP 
 
@@ -15,6 +23,11 @@ Kubernetes propose depuis la 1.26 des resources natives :
 
 [https://kyverno.io/blog/2024/02/26/generating-kubernetes-validatingadmissionpolicies-from-kyverno-policies/](https://kyverno.io/blog/2024/02/26/generating-kubernetes-validatingadmissionpolicies-from-kyverno-policies/)
 
+
+##==##
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
+## Annonce de kyverno 1.15
+![h-600](./assets/volcamp/kyverno-1-15.png)
 
 
 ##==##

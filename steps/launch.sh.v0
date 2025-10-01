@@ -2,8 +2,6 @@
 
 # --- Définition des options et des scripts associés ---
 options=(
-    "Checklist"
-    "Check versions"
     "Installation de Kyverno"
     "Démo 1ère policy"
     "Démo Kyverno policies chart"
@@ -14,8 +12,6 @@ options=(
 )
 
 actions=(
-    "./checklist.sh"
-    "./checkversion.sh"
     "./1-install-kyverno.sh"
     "./2-first-policy.sh"
     "./6-kyverno-policies.sh"
@@ -32,7 +28,7 @@ nombre_options=${#options[@]}
 # --- Fonction pour afficher le menu ---
 function afficher_menu() {
     clear
-    echo -e "=== Démo \033[38;5;205mKyverno \033[92mVolcamp\033[0m 2025 ==="
+    echo "=== Démo Kyverno Volcam 2025 ==="
     echo ""
 
     for i in "${!options[@]}"; do

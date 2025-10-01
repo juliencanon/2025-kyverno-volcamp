@@ -1,5 +1,11 @@
 
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
+## Contexte Kubernetes
+![h-500](./assets/volcamp/k8s-logo-trans.png)
+![h-500](./assets/techready/illus-cluster-2.png)
+
+##==##
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ![h-700](./assets/techready/arrivee-client.png)
 
 ##==##
@@ -31,3 +37,8 @@ Notes:
 https://nuagedemots.co/
 requests limits tags owner Securitycontext privileged network registries supply trust attestation supply tags tags requests limits cpu memory PDB namespaces policy
 
+##==##
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
+## Pourquoi Kyverno ?
+![h-500](./assets/volcamp/kyverno2.png)
+![h-500](./assets/volcamp/Question_mark_alternate.svg)

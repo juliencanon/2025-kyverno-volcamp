@@ -1,6 +1,11 @@
 
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
-## Policy-reporter
+## Policy-reporter installation
+![h-800](./assets/volcamp/policy-reporter-install.png)
+
+##==##
+<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
+## Policy-reporter UI
 ![h-800](./assets/techready/policy-reporter.png)
 
 ##==##

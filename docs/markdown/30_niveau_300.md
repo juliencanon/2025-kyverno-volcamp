@@ -7,14 +7,20 @@ Il faut sécuriser les containers dans le cluster !
 
 ##==##
 <!-- .slide: class="flex-row center blue" data-background="./assets/volcamp/bkgnd-main2.png"-->
-## Pod Security Standards
+## Commencer par la base, de façon fiable et maîtrisée
 
-- interdiction des capabilities
-- interdiction des escalations de privilege
+### Documentation Kubernetes -> Pod Security Standards
+
 - interdiction de tourner sous l'indentité root
-- séparer les namespaces de la machine hôte (PID, IPC, Network, HostAlias,...)
+- filesystem / en lecture seule
+- isolation des "namespaces" de la machine hôte (PID, IPC, Network, HostAlias,...)
+- desactivation de toutes les capabilities (CAP_NET_RAW, CAP_SYS_ADMIN, ...)
+- interdiction des escalations de privilege
+<BR>
+<BR>
+<BR>
+https://kubernetes.io/docs/concepts/security/pod-security-standards
 
-[https://kubernetes.io/docs/concepts/security/pod-security-standards/](https://kubernetes.io/docs/concepts/security/pod-security-standards/)
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
@@ -24,7 +30,7 @@ Il faut sécuriser les containers dans le cluster !
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
-## Le repo helm kyverno offre un charts nommé kyverno-policies
+## Le repo helm kyverno offre un chart kyverno-policies
 
 Choix du profil : 
 ![h500](./assets/lunch/policies-baseline.jpg)
