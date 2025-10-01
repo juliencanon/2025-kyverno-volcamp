@@ -63,9 +63,3 @@
 - Faire porter les bons patterns par des charts helm
 <!-- .element: class="list-fragment" -->
 
-##==##
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
-## Rendre visible. Auditez !
-![h-800](./assets/techready/popeye.png)
-
-

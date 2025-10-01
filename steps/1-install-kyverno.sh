@@ -8,6 +8,8 @@ clear
 echo ""
 echo "Etat des lieux initial"
 echo ""
+pe 'kubectl get nodes'
+echo ""
 pe 'kubectl get namespace'
 echo ""
 

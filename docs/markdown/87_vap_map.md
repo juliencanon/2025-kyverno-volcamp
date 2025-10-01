@@ -3,8 +3,3 @@
 ## Tests de non-regression avec "kyverno test"
 ![h-600](./assets/techready/demo-time-boy.png)
 
-##==##
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
-## Annonce de kyverno 1.15
-![h-600](./assets/volcamp/kyverno-1-15.png)
-
