@@ -39,6 +39,6 @@ requests limits tags owner Securitycontext privileged network registries supply 
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
-## Pourquoi Kyverno ?
+## Comment Kyverno nous aide-t-il ?
 ![h-500](./assets/volcamp/kyverno2.png)
 ![h-500](./assets/volcamp/Question_mark_alternate.svg)
