@@ -1,12 +1,12 @@
 
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
-## Policy-reporter installation
-![h-800](./assets/volcamp/policy-reporter-install.png)
+## Policy-reporter UI
+![h-800](./assets/techready/policy-reporter.png)
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
-## Policy-reporter UI
-![h-800](./assets/techready/policy-reporter.png)
+## Policy-reporter installation
+![h-800](./assets/volcamp/policy-reporter-install.png)
 
 ##==##
 <!-- .slide: class="with-code-dark max-height" data-background="./assets/volcamp/bkgnd-main2.png"-->

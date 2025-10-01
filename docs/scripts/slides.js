@@ -13,11 +13,11 @@ function schoolSlides() {
     "30_niveau_300.md",
     "40_niveau_400.md",
     "60_toolbox.md",
-    "70_Mutate.md",
-    "75_Generating.md",
     "80_supply.md",
     "85_clean.md",
     "87_vap_map.md",
+    "75_Generating.md",
+    "70_Mutate.md",
     "90_Conclusion.md",
     "95_Speaker.md",
     "99_Questions.md"

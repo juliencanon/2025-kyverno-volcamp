@@ -1,12 +1,12 @@
 
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Mais Jamy, comment ça marche ?
-![h500](./assets/lunch/cest-pas-sorcier-800.jpg)
+![h-600](./assets/lunch/cest-pas-sorcier-800.jpg)
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Big Picture Kubernetes
-![h500](./assets/techready/k8s_archi1.png)
+![h-700](./assets/techready/k8s_archi1.png)
 Notes:
 Kubernetes est un orchestrateur de container piloté via APIs <BR>
 Les requêtes sont émises par :
@@ -19,6 +19,6 @@ Les requêtes sont émises par :
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## "C'est là que les bactéries attaquent !"
-![h500](./assets/techready/admission_schema.jpg)
+![h-600](./assets/techready/admission_schema.jpg)
 
 
