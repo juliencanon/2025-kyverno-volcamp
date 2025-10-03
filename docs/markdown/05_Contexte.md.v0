@@ -15,25 +15,27 @@
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
-## L'entropie du système augmente...
-![h-600](./assets/techready/arrivee_client.png)
+![h-700](./assets/techready/arrivee_client.png)
 Notes: 
 - arrivée d'un junior dans l'entreprise
+- des resources utilisent des api deprecated (or elles vont être removes)
 - il reste plein de secrets obsoletes
 - ce à quoi on n'en pas pensé en amont
+- pas comme du bon vin, 
 
 ##==##
 <!-- .slide: data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Sources de problèmes
-- La définition des requests/limits manquent, scheduling pas optimal
-- Il est difficile de savoir le propriétaire de certaines resources
-- Les resources utilisent des apiVersions vieillissantes
+![h-600 center](./assets/lunch/nuage-de-mots-issues.png)
+Notes:
+#### L'entropie du système augmente...
+- La définition des requests/limits manquent pour le CPU et la RAM
+- Il est difficile de savoir à qui appartient telle ou telle application
 - Les containers ne sont pas sécurisés (possibilité d'évasion)
 - Les images proviennent de diverses registries, parfois obscures
-- Il reste des resources oubliées lors de décommissionnement
-- Le nommage laisse à désirer
-- Tout autre grain de sable dont on n'a pas encore pris conscience...
-<!-- .element: class="list-fragment" -->
+- Une nomenclature serait la bienvenue
+https://nuagedemots.co/
+requests limits tags owner Securitycontext privileged network registries supply trust attestation supply tags tags requests limits cpu memory PDB namespaces policy
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
