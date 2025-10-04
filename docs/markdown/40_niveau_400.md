@@ -2,7 +2,7 @@
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Niveau 400 
 ### Implémentez les policies adaptées à votre métier
-![h600](./assets/lunch/200-dragon-600.png)
+![h600](./assets/volcamp/200-dragon-600.png)
 
 
 

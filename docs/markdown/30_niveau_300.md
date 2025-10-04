@@ -1,7 +1,7 @@
 
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Niveau 300 : Une demande du CISO vient de tomber...
-![h600](./assets/lunch/100-chateau-600.png)
+![h600](./assets/volcamp/100-chateau-600.png)
 
 Il faut sécuriser les containers dans le cluster !
 
@@ -25,7 +25,7 @@ https://kubernetes.io/docs/concepts/security/pod-security-standards
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Pod Security Standards
-![h500](./assets/lunch/pss-700.png)
+![h500](./assets/volcamp/pss-700.png)
 
 
 ##==##
@@ -33,13 +33,13 @@ https://kubernetes.io/docs/concepts/security/pod-security-standards
 ## Le repo helm kyverno offre un chart kyverno-policies
 
 Choix du profil : 
-![h500](./assets/lunch/policies-baseline.jpg)
+![h500](./assets/volcamp/policies-baseline.jpg)
 
 Mode : Audit ou Enforce
-![h500](./assets/lunch/policies-enforce.jpg)
+![h500](./assets/volcamp/policies-enforce.jpg)
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Utilisons le helm chart kyverno-policies
-![h-600](./assets/techready/demo-time-girl.png)
+![h-600](./assets/volcamp/demo-time-girl.png)
 

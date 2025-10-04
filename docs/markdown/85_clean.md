@@ -1,7 +1,7 @@
 
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Cleaning : 2 façons de suppression automatique
-![h-600](./assets/techready/clean-policy.png)
+![h-600](./assets/volcamp/clean-policy.png)
 
 
 ##==##

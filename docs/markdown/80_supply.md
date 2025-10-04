@@ -1,7 +1,7 @@
 
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Sécuriser la supply chain
-![h-600](./assets/techready/origine-image.png)
+![h-600](./assets/volcamp/origine-image.png)
 
 ##==##
 

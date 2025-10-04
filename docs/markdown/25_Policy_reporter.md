@@ -1,11 +1,11 @@
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Rendre visible. Auditez !
-![h-800](./assets/techready/popeye.png)
+![h-800](./assets/volcamp/popeye.png)
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Policy-reporter UI
-![h-800](./assets/techready/policy-reporter.png)
+![h-800](./assets/volcamp/policy-reporter.png)
 
 ##==##
 <!-- .slide: class="with-code-dark max-height" data-background="./assets/volcamp/bkgnd-main2.png"-->

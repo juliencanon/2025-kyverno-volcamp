@@ -1,7 +1,7 @@
 
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Kyverno ne se limite pas à un Admission Controller
-![h500](./assets/techready/toolbox-trans.png)
+![h500](./assets/volcamp/toolbox-trans.png)
 
 Notes:
 - Se voit comme une boîte à outil gérant tous les use-cases de la conformité

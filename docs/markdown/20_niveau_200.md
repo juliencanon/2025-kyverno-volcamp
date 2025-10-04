@@ -1,19 +1,19 @@
 
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Niveau 200 : Poursuivons avec d'autres policies
-![h-600](./assets/lunch/policies-sur-etagere-750.png)
+![h-600](./assets/volcamp/policies-sur-etagere-750.png)
 
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Le site officiel de Kyverno : kyverno.io
-![h-800](./assets/techready/kyverno-website.png)
+![h-800](./assets/volcamp/kyverno-website.png)
 
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Collection sur étagère : 
-![h-800](./assets/lunch/policies-etagere.png)
+![h-800](./assets/volcamp/policies-etagere.png)
 
 
 ##==##
@@ -24,7 +24,7 @@
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Profitez du joli terrain de jeu
-![h-800](./assets/lunch/playground.png)
+![h-800](./assets/volcamp/playground.png)
 
 
 ##==##
@@ -48,7 +48,7 @@
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Processus d'amélioration continue
-![h-600](./assets/techready/roue-demming.png)
+![h-600](./assets/volcamp/roue-demming.png)
 
 
 ##==##

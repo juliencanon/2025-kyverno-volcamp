@@ -2,21 +2,21 @@
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## Contexte Kubernetes
 ![h-500](./assets/volcamp/k8s-logo-trans.png)
-![h-500](./assets/techready/illus-cluster-2.png)
+![h-500](./assets/volcamp/illus-cluster-2.png)
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
-![h-700](./assets/techready/arrivee-client.png)
+![h-700](./assets/volcamp/arrivee-client.png)
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
-![h-700](./assets/techready/team-mature.png)
-![h-700](./assets/lunch/outils-trans3.png)
+![h-700](./assets/volcamp/team-mature.png)
+![h-700](./assets/volcamp/outils-trans3.png)
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
 ## L'entropie du système augmente...
-![h-600](./assets/techready/arrivee_client.png)
+![h-600](./assets/volcamp/arrivee_client.png)
 Notes: 
 - arrivée d'un junior dans l'entreprise
 - il reste plein de secrets obsoletes
